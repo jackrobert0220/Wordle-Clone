@@ -4,7 +4,7 @@
   "description": "A clone of the popular web appilcation WORDLE.",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node script.js"
   },
   "author": "Jack Glazer",
   "license": "ISC",
